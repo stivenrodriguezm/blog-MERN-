@@ -1,0 +1,6 @@
+export const GUARDAR = 'guardar_post'
+export const CARGANDO = 'nuevo_post_cargando'
+export const ERROR = 'nuevo_post_error'
+export const CAMBIO_TITULO = 'nuevo_cambio_titulo'
+export const CAMBIO_BODY = 'nuevo_cambio_body'
+export const TRAER_POST = 'nuevo_traer_post'
